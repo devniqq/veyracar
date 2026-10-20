@@ -69,4 +69,3 @@ React 18 · TypeScript · Vite · Tailwind CSS · Lucide icons. No backend is re
 
 VEYRA is a fictional independent design study. It is not an automaker, a verified engineering model, or an affiliation with any car manufacturer. No range, power, charging, pricing or certification claims are made.
 
-Created by [Amir Mušić](https://github.com/amirmushichge).
