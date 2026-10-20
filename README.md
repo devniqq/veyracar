@@ -1,6 +1,6 @@
 # VEYRA — Electric, inside out.
 
-An interactive automotive design study by **Amir Mušić**. Explore an electric vehicle through short films, technical cutaways and a compact appearance configurator.
+An interactive automotive design study by **Devniqq**. Explore an electric vehicle through short films, technical cutaways and a compact appearance configurator.
 
 The idea: give rendered media the behaviour of a product interface. The craft lives in the relationship between the image, the interaction and the handoff between states.
 
